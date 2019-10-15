@@ -14,9 +14,9 @@ const postcssPlugins = [
 if (process.env.NODE_ENV === 'production') postcssPlugins.push(purgecss())
 
 module.exports = {
-  siteName: 'Gridsome Portfolio Starter',
-  siteDescription: 'A simple portfolio theme for Gridsome powered by Tailwind CSS v1',
-  siteUrl: 'https://gridsome-portfolio-starter.netlify.com',
+  siteName: 'Mobile Wifi Spain',
+  siteDescription: 'RENT MOBILE WIFI SPAIN AND AVOID ROAMING FEES WHEN TRAVELLING IN SPAIN.',
+  siteUrl: 'https://mobile-wifi-spain.netlify.com',
   plugins: [
     {
       use: '@gridsome/vue-remark',

@@ -37,16 +37,27 @@
             <div class="text-lg text-gray-600">Hold the bottom for a few seconds until all the lights get green. On your phone, tablet or laptop, go to Settings/Wifi and select your network The wifi name is MobileWiFiSpain The wifi password is sticked to the back of the 4G device Welcome to your 4G connection in Spain :)</div>
           </li>
           <li class="checkmark mb-6">
-            <div>Project Two</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            <div>Why choosing our pocket wifi service?</div>
+            <div class="text-lg text-gray-600">  The mobile data plans we are offering allows you to surf with nearly no restrictions, without having to spend a fortune on roaming fees when in Spain. The average 4G speed in Spain is 30MBps.
+                  Our pay as you go pocket wifi xxxx Huawei xxxxx creates a private and secure wifi connection within a 20 meters radium, where you could connect up to 10 different mobile devices such as laptops, phones (both iPhone and Androids) or tablets (both iPads and Android).
+                  
+                  </div>
           </li>
           <li class="checkmark mb-6">
-            <div>Project Three</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            <div>How do I return the 4G pocket wifi device?</div>
+            <div class="text-lg text-gray-600">Hold the bottom for a few seconds until all the lights get green.
+                  On your phone, tablet or laptop, go to Settings/Wifi and select your network
+                  The wifi name is MobileWiFiSpain
+                  The wifi password is sticked to the back of the 4G device
+                  Welcome to your 4G connection in Spain :)</div>
           </li>
           <li class="checkmark mb-6">
-            <div>Project Four</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            <div>Where do I receive my 4G pocket wifi?</div>
+            <div class="text-lg text-gray-600">
+                    Wherever you tell us to. We tend to deliver it ideally the day prior to your arrival if the address provided hotel or holiday apartment has a reception, so you would have it ready to collect upon arrival, at check-in.
+                    If the address in Spain you supply us with is a private residence or a self catering, then we would need you to tell us a suitable time frame for you so we can instruct the courier to deliver when you are at home.
+                    In the event you prefer to collect it from a pick-up point (the nearest fast courier office). Upon request, we email you the exact location, GPS coordinates, opening hours and their phone number.
+                  </div>
           </li>
 
         </ul>
